@@ -21,7 +21,7 @@ Contains all data structure questions categorised into sub-directories like stac
     5. Stack  
     6. Graphs  
     7. Circular Linked List
-
+    8.Avl Tree 
 ### Algorithms
 
 Contains algorithm-based questions like dynamic programming, greedy etc.
